@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Dani Akash" src="https://cdn.pixabay.com/photo/2016/08/28/17/18/emoticon-1626442_960_720.png"/>
+<img align="left" width="150" height="150" alt="Kamble Nitesh" src="https://cdn.pixabay.com/photo/2016/08/28/17/18/emoticon-1626442_960_720.png"/>
 
 ## I'm [Nitesh Kamble][linkedin]
 
