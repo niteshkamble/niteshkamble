@@ -1,4 +1,4 @@
-<img align="left" width="150" height="150" alt="Kamble Nitesh" src="https://cdn.pixabay.com/photo/2016/08/28/17/18/emoticon-1626442_960_720.png"/>
+<img align="left" width="150" height="150" alt="Kamble Nitesh" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1685833844~exp=1685834444~hmac=7548697522feeb635c478b61e44e2fde18f26e5ceda96f5dc63d25a08e98dea6"/>
 
 ## I'm [Nitesh Kamble][linkedin]
 
