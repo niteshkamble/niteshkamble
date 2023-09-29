@@ -10,3 +10,5 @@ A Mobile App Developer from Mumbai. I love building applications & discussing ne
 
 [linkedin]: https://in.linkedin.com/in/nitesh-kamble-778109188
 [github]: https://github.com/niteshkamble
+
+[![An image of @niteshkamble's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/niteshkamble)](https://holopin.io/@niteshkamble)
