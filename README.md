@@ -2,7 +2,7 @@
 
 ## I'm [Nitesh Kamble][linkedin]
 
-A Mobile App Developer from Mumbai. I love building applications & discussing new product ideas. Reach out to me on linkedin if you'd like to talk ✌️ .
+A Mobile App Developer from Mumbai, India. I love building applications & discussing new product ideas. Reach out to me on linked-in if you'd like to talk ✌️ .
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://in.linkedin.com/in/nitesh-kamble-778109188)
 
